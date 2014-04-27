@@ -10,7 +10,6 @@
 4. Appropriately labels the data set with descriptive activity names. 
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-
 ## Execute [run_analysis.R](https://github.com/denco/getting_and_cleaning_pa2/blob/master/run_analysis.R):
  - just download the [Script](https://github.com/denco/getting_and_cleaning_pa2/blob/master/run_analysis.R)
  - and run it with ``R -f run_analysis.R``
@@ -18,3 +17,6 @@
  - and create 2 files: 
     1. [merged_tidy_data.csv](https://github.com/denco/getting_and_cleaning_pa2/blob/master/merged_tidy_data.csv)
     2. [average_tidy_data.csv](https://github.com/denco/getting_and_cleaning_pa2/blob/master/average_tidy_data.csv)
+
+
+#### For more about Data, please see [CodeBook](https://github.com/denco/getting_and_cleaning_pa2/blob/master/CodeBook.md)
